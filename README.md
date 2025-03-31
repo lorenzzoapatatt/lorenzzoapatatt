@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ## Contatos
 <div>
 -📫 Mande um email: <a href = "lorenzzoapatatt2208@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+
 -🔭 Você pode me encontrar no Linkedin: https://www.linkedin.com/in/lorenzzo-antonio-patatt-7a29a0358/
-  
+
 -⚡ Meu blog pessoal: sei lla KSSKKSKSKS
 </div>
 
@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ## Linguagens da programação,Ferramentas e Tecnologias
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzzoapatatt&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzzoapatatt&layout=compact&langs_count=7&theme=monokai-pro"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=lorenzzoapatatt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
