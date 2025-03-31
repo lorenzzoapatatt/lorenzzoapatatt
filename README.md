@@ -1,7 +1,5 @@
-## Hi there 👋
-
-
-**lorenzzo-rgb/lorenzzo-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Lorenzzo Antonio Patatt ! 
+## Bem vindo ao meu perfil GitHub 👋
 
 Here are some ideas to get you started:
 
