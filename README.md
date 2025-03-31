@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ## Contatos
 
 -🔭 Você pode me encontrar no Linkedin: https://www.linkedin.com/in/lorenzzo-antonio-patatt-7a29a0358/
+<ls>
 -⚡ Meu blog pessoal: sei lla KSSKKSKSKS
+<ls>
 -📫 Ou mande um email: <a href = "lorenzzoapatatt2208@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<ls>
 
 ## Linguagens da programação,Ferramentas e Tecnologias
