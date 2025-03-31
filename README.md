@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**lorenzzoapatatt/lorenzzoapatatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**lorenzzo-rgb/lorenzzo-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+🔭 Você pode me encontrar no Linkedin https://www.linkedin.com/in/lorenzzo-antonio-patatt-7a29a0358/
+
+Ou mande um email: <a href = "lorenzzoapatatt2208@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+Linguagens de programação, tecnologias e ferramentas
