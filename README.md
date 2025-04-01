@@ -1,11 +1,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Experiencia de 10 anos de ingles<br>
 - 👯 Tentando atingir experiencias de frontend<br>
-- 🤝 I’m looking for help with<br>
-- 🌱 I’m currently learning<br>
-- 💬 Ask me about<br>
-- ⚡ Fun fact
-
+- 🤝 Estou procurando um emprego na area de frontend<br>
 
 ## 📫 Contate-me
 <a href = "lorenzzoapatatt2208@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
