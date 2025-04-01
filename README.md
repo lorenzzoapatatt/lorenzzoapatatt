@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
-- 🔭 I’m currently working on<br>
-- 👯 I’m looking to collaborate on<br>
+- 🔭 Experiencia de 10 anos de ingles<br>
+- 👯 Tentando atingir experiencias de frontend<br>
 - 🤝 I’m looking for help with<br>
 - 🌱 I’m currently learning<br>
 - 💬 Ask me about<br>
