@@ -36,9 +36,5 @@ Here are some ideas to get you started:
 
 ## Minhas estatísticas
 
-<div>
-![lorenzzoapatatt's Stats](https://github-readme-stats.vercel.app/api?username=lorenzzoapatatt&theme=default&show_icons=true&hide_border=true&count_private=false)
-![lorenzzoapatatt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzzoapatatt&theme=default&show_icons=true&hide_border=true&layout=compact)
-  ![lorenzzoapatatt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzzoapatatt&theme=default&show_icons=true&hide_border=true&layout=compact)
-</div>
+https://github-readme-stats.vercel.app/api?username=lorenzzoapatatt&theme=default&show_icons=true&hide_border=true&count_private=false
 
