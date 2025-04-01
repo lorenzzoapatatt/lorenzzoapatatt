@@ -16,6 +16,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=lorenzzoapatatt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lorenzzoapatatt&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzzoapatatt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=lorenzzoapatatt&icon=9&color=1)](https://visitcount.itsvg.in)
