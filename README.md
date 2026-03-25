@@ -1,7 +1,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 Experiencia de 10 anos de ingles<br>
-- 👯 Tentando atingir experiencias de frontend<br>
-- 🤝 Estou procurando um emprego na area de frontend<br>
+- 👯 Tentando atingir experiencias de backend<br>
+- 🤝 Estou procurando um emprego na area de backend<br>
 
 ## 📫 Contate-me
 <a href = "lorenzzoapatatt2208@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -15,6 +15,5 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 # 📊 Minhas estatísticas do Github:
-![](https://github-readme-stats.vercel.app/api?username=lorenzzoapatatt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lorenzzoapatatt&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzzoapatatt&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
